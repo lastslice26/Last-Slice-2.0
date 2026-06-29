@@ -1,0 +1,9 @@
+{
+  "name": "Last Slice OS",
+  "short_name": "Last Slice",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "background_color": "#0b0907",
+  "theme_color": "#0b0907",
+  "icons": []
+}
